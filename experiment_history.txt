@@ -1,0 +1,283 @@
+========================================
+NETWORK CHAOS EXPERIMENT
+Date: 2026-09-30 19:15:47
+========================================
+
+Interface : eth0
+Gateway   : 172.17.176.1
+Target    : 172.17.176.1
+
+BASELINE
+  Latency     : 100.86 ms
+  Packet Loss : 20%
+  Jitter      : 0.24 ms
+
+CHAOS APPLIED
+  Delay       : 100 ms
+  Packet Loss : 10%
+
+AFTER CHAOS
+  Latency     : 100.79 ms
+  Packet Loss : 0%
+  Jitter      : 0.13 ms
+
+IMPACT
+  Latency Change  : -0.06 ms
+  Loss Change     : -20%
+  Jitter Change   : -0.11 ms
+
+Status: WARNING: Network NOT Restored
+========================================
+
+========================================
+NETWORK CHAOS EXPERIMENT
+Date: 2026-09-30 19:17:03
+========================================
+
+Interface : eth0
+Gateway   : 172.17.176.1
+Target    : 172.17.176.1
+
+BASELINE
+  Latency     : 0.88 ms
+  Packet Loss : 0%
+  Jitter      : 0.24 ms
+
+CHAOS APPLIED
+  Delay       : 100 ms
+  Packet Loss : 10%
+
+AFTER CHAOS
+  Latency     : 101.01 ms
+  Packet Loss : 10%
+  Jitter      : 0.24 ms
+
+IMPACT
+  Latency Change  : +100.13 ms
+  Loss Change     : +10%
+  Jitter Change   : +0.01 ms
+
+Status: WARNING: Network NOT Restored
+========================================
+
+========================================
+NETWORK CHAOS EXPERIMENT
+Date: 2026-09-30 19:19:08
+========================================
+
+Interface : eth0
+Gateway   : 172.17.176.1
+Target    : 172.17.176.1
+
+BASELINE
+  Latency     : 0.86 ms
+  Packet Loss : 0%
+  Jitter      : 0.15 ms
+
+CHAOS APPLIED
+  Delay       : 100 ms
+  Packet Loss : 10%
+
+AFTER CHAOS
+  Latency     : 101.01 ms
+  Packet Loss : 10%
+  Jitter      : 0.24 ms
+
+IMPACT
+  Latency Change  : +100.14 ms
+  Loss Change     : +10%
+  Jitter Change   : +0.08 ms
+
+Status: Network Restored
+========================================
+
+========================================
+NETWORK CHAOS EXPERIMENT
+Date: 2026-09-30 19:20:34
+========================================
+
+Interface : eth0
+Gateway   : 172.17.176.1
+Target    : 172.17.176.1
+
+BASELINE
+  Latency     : 100.83 ms
+  Packet Loss : 40%
+  Jitter      : 0.19 ms
+
+CHAOS APPLIED
+  Delay       : 100 ms
+  Packet Loss : 10%
+
+AFTER CHAOS
+  Latency     : 100.92 ms
+  Packet Loss : 0%
+  Jitter      : 0.27 ms
+
+IMPACT
+  Latency Change  : +0.10 ms
+  Loss Change     : -40%
+  Jitter Change   : +0.08 ms
+
+Status: Network Restored
+========================================
+
+========================================
+NETWORK CHAOS EXPERIMENT
+Date: 2026-09-30 19:23:13
+========================================
+
+Interface : eth0
+Gateway   : 172.17.176.1
+Target    : 172.17.176.1
+
+BASELINE
+  Latency     : 0.83 ms
+  Packet Loss : 0%
+  Jitter      : 0.16 ms
+
+CHAOS APPLIED
+  Delay       : 100 ms
+  Packet Loss : 10%
+
+AFTER CHAOS
+  Latency     : 101.45 ms
+  Packet Loss : 10%
+  Jitter      : 0.57 ms
+
+IMPACT
+  Latency Change  : +100.62 ms
+  Loss Change     : +10%
+  Jitter Change   : +0.41 ms
+
+Status: Network Restored
+========================================
+
+========================================
+NETWORK CHAOS EXPERIMENT
+Date: 2026-09-30 19:23:46
+========================================
+
+Interface : eth0
+Gateway   : 172.17.176.1
+Target    : 172.17.176.1
+
+BASELINE
+  Latency     : 0.99 ms
+  Packet Loss : 0%
+  Jitter      : 0.06 ms
+
+CHAOS APPLIED
+  Delay       : 100 ms
+  Packet Loss : 10%
+
+AFTER CHAOS
+  Latency     : 100.87 ms
+  Packet Loss : 20%
+  Jitter      : 0.21 ms
+
+IMPACT
+  Latency Change  : +99.88 ms
+  Loss Change     : +20%
+  Jitter Change   : +0.15 ms
+
+Status: Network Restored
+========================================
+
+========================================
+NETWORK CHAOS EXPERIMENT
+Date: 2026-10-04 09:40:47
+========================================
+
+Interface : eth0
+Gateway   : 172.17.176.1
+Target    : 172.17.176.1
+
+BASELINE
+  Latency     : 0.83 ms
+  Packet Loss : 0%
+  Jitter      : 0.23 ms
+
+CHAOS APPLIED
+  Delay       : 100 ms
+  Packet Loss : 10%
+
+AFTER CHAOS
+  Latency     : 101.05 ms
+  Packet Loss : 0%
+  Jitter      : 0.17 ms
+
+IMPACT
+  Latency Change  : +100.21 ms
+  Loss Change     : +0%
+  Jitter Change   : -0.05 ms
+
+Status: Network Restored
+========================================
+
+========================================
+NETWORK CHAOS EXPERIMENT
+Date: 2026-10-04 10:05:03
+========================================
+
+WiFi SSID : Galaxy A14 5G CED3
+Interface : Wi-Fi
+Local IP  : 10.135.4.236
+Gateway   : 6cd8%14
+Target    : 6cd8%14
+
+BASELINE
+  Latency     : N/A
+  Packet Loss : N/A
+  Jitter      : N/A
+
+CHAOS APPLIED
+  Delay       : 100 ms
+  Packet Loss : 10%
+
+AFTER CHAOS
+  Latency     : N/A
+  Packet Loss : N/A
+  Jitter      : N/A
+
+IMPACT
+  Latency Change  : N/A
+  Loss Change     : N/A
+  Jitter Change   : N/A
+
+Status: Network Restored
+========================================
+
+========================================
+NETWORK CHAOS EXPERIMENT
+Date: 2026-10-04 10:05:29
+========================================
+
+WiFi SSID : SOA BH-12A
+Interface : Wi-Fi
+Local IP  : 10.190.35.2
+Gateway   : 10.190.32.1
+Target    : 10.190.32.1
+
+BASELINE
+  Latency     : 4.89 ms
+  Packet Loss : 40%
+  Jitter      : 1.72 ms
+
+CHAOS APPLIED
+  Delay       : 100 ms
+  Packet Loss : 10%
+
+AFTER CHAOS
+  Latency     : 104.78 ms
+  Packet Loss : 20%
+  Jitter      : 1.39 ms
+
+IMPACT
+  Latency Change  : +99.89 ms
+  Loss Change     : -20%
+  Jitter Change   : -0.33 ms
+
+Status: Network Restored
+========================================
+
